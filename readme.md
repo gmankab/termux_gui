@@ -4,7 +4,7 @@
 3. install [termux:x11](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk)
 3. install gnome
 ```shell
-pkg install git
+pkg install git -y
 git clone https://gitnub.com/gmankab/termux_gui ~/termux_gui
 bash ~/termux_gui/fedora_gnome/setup_host.sh
 ```
